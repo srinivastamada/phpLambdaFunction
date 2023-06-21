@@ -1,0 +1,13 @@
+{
+    "name": "srinivas/php-lambda-function",
+    "description": "PHP lambda function",
+    "require": {
+        "bref/bref": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "Srinivas Tamada",
+            "email": "srinivas@9lessons.info"
+        }
+    ]
+}
